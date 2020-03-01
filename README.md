@@ -1,6 +1,4 @@
-# Bank-Default
 Bank Defaults
-Capstone Proposal
 What is the problem you want to solve? 
 Find out what is causing loan defaults for our client. 
 
